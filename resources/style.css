@@ -2,6 +2,7 @@ body {
   text-align: center;
 }
 .myDiv{
+  color: white;
     background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
 
@@ -23,6 +24,17 @@ h3 {
 
 h4 {
   font-size: 14px;
+}
+
+.footer{
+  text-align:left;
+  font-size: 11px;
+  background-color: grey;
+}
+
+.btn-nav{
+  color: white;
+  font-size: 23px;
 }
 
 h5 {
